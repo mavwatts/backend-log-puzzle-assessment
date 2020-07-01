@@ -40,7 +40,7 @@ def download_images(img_urls, dest_dir):
     """
     # +++your code here+++
     pass
-
+ 
 
 def create_parser():
     """Creates an argument parser object."""
